@@ -5,10 +5,10 @@ pdoPostgresqlExple.sgbd=pdo_pgsql
 pdoPostgresqlExple.username=postgres
 pdoPostgresqlExple.password=root
 
-pdoMysqlExple.dsn="mysql:dbname=docelec;host=localhost"
+pdoMysqlExple.dsn="mysql:dbname=votre_database;host=votre_host"
 pdoMysqlExple.sgbd=pdo_mysql
-pdoMysqlExple.username=root
-pdoMysqlExple.password=
+pdoMysqlExple.username=votre_username
+pdoMysqlExple.password=votre_password
 
 pdoSqliteExple.dsn="sqlite:/var/www/test4.sqlite"
 pdoSqliteExple.sgbd=pdo_sqlite
