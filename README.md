@@ -1,7 +1,7 @@
 # appli-docelec
 Petite application de pilotage de la documentation électronique avec le MkFramework http://mkframework.com/
 
-Pré-requis : serveur apache2 et version de php >= 5.2
+Pré-requis : serveur apache2 et version de php >= 5.2 (extension PDO activée)
 
 Installer le repertoire de l'application dans le repertoire web de votre serveur web apache
 
